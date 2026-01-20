@@ -7,6 +7,8 @@
 - File tab > Activer Auto Save
 - settings > Font Size > passer 15 ou 16
 - crtl + shift + p > Open User setting (JSON) > ajouter la ligne ("editor.renderWhitespace": "all",)
+- crtl + shift + p > Configure Display Language > Français
+
 
 ## 2. Extensions
 #### 1. HTML CSS
